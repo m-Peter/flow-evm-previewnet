@@ -7,3 +7,7 @@ Flow EVM Events in PreviewNet
 ```shell
 go run main.go
 ```
+
+Results:
+
+![Flow EVM Events](./evm-events.png)
